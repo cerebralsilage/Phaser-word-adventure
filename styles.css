@@ -1,0 +1,8 @@
+#phaser-game {
+  height: 100vh;
+  background-color: rgb(60, 62, 88);
+}
+
+canvas {
+  border: 5px ridge black;
+}
