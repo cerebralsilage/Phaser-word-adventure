@@ -1,6 +1,6 @@
 # Phaser-word-adventure
  
-This was a codeacademy project.  I built the functionality, but codeacademy supplied the images and page objects(storyline).  I also added a background color, centered the game canvas, and made a canvas border just for looks.  
+This was a codeacademy project.  I built the functionality, but codeacademy supplied the images and page objects(storyline).  I also added a background color, centered the game canvas, and made a canvas border just for looks.  *Not optimized for mobile*
 
 ## Features
 * Built using Phaser 3
