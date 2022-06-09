@@ -1,8 +1,19 @@
+html {
+  background-color: rgb(60, 62, 88);
+  height: 100vh;
+}
+
 #phaser-game {
   height: 100vh;
-  background-color: rgb(60, 62, 88);
 }
 
 canvas {
   border: 5px ridge black;
+}
+
+@media only screen and (max-width: 500px) {
+  canvas {
+    margin: 0 !important;
+    width: 98vw;
+  }
 }
